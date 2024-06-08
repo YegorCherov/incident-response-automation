@@ -15,13 +15,13 @@ This PowerShell script provides a comprehensive solution for automating the inci
 
 1. Clone the repository:
   ```powershell
-  git clone https://github.com/your-username/incident-response-automation.git
+  git clone https://github.com/Rozcy/incident-response-automation.git
   ```
 
-2. Open the PowerShell script file (`Invoke-IncidentResponse.ps1`) and review the configuration options, such as the secure server upload URL.
+2. Open the PowerShell script file (`IncidentResponse.ps1`) and review the configuration options, such as the secure server upload URL.
 3. Run the script:
 ```powershell
-.\Invoke-IncidentResponse.ps1
+.\IncidentResponse.ps1
 ```
 4. The script will execute the incident response process and save the collected data to a ZIP file in the current directory.
 
