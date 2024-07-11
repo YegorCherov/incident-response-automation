@@ -15,7 +15,7 @@ This PowerShell script provides a comprehensive solution for automating the inci
 
 1. Clone the repository:
   ```powershell
-  git clone https://github.com/Rozcy/incident-response-automation.git
+  git clone https://github.com/YegorCherov/incident-response-automation.git
   ```
 
 2. Open the PowerShell script file (`IncidentResponse.ps1`) and review the configuration options, such as the secure server upload URL.
